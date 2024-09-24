@@ -1,0 +1,62 @@
+misDatos([
+	  {
+		"folio": 1,
+		"descripcion": "Tenis deportivos Adidas UltraBoost",
+		"talla": "M",
+		"precio": 180.00
+	  },
+	  {
+		"folio": 2,
+		"descripcion": "Zapatos casuales Nike Air Max",
+		"talla": "L",
+		"precio": 130.00
+	  },
+	  {
+		"folio": 3,
+		"descripcion": "Botas de montaña Timberland Waterproof",
+		"talla": "XL",
+		"precio": 220.00
+	  },
+	  {
+		"folio": 4,
+		"descripcion": "Sandalias de cuero Birkenstock Arizona",
+		"talla": "S",
+		"precio": 99.99
+	  },
+	  {
+		"folio": 5,
+		"descripcion": "Zapatillas deportivas Puma RS-X",
+		"talla": "M",
+		"precio": 110.00
+	  },
+	  {
+		"folio": 6,
+		"descripcion": "Mocasines elegantes Clarks Tilden Walk",
+		"talla": "L",
+		"precio": 75.50
+	  },
+	  {
+		"folio": 7,
+		"descripcion": "Zapatos de vestir Hugo Boss DressApp",
+		"talla": "M",
+		"precio": 200.00
+	  },
+	  {
+		"folio": 8,
+		"descripcion": "Botines de invierno Columbia Bugaboot",
+		"talla": "XL",
+		"precio": 150.00
+	  },
+	  {
+		"folio": 9,
+		"descripcion": "Zapatillas running Asics Gel-Nimbus",
+		"talla": "S",
+		"precio": 160.00
+	  },
+	  {
+		"folio": 10,
+		"descripcion": "Zapatos de cuero formal Aldo Marostica",
+		"talla": "L",
+		"precio": 120.00
+	  }
+])
